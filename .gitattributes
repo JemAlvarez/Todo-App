@@ -1,1 +1,3 @@
 public/styles/* linguist-vendored
+public/*.html linguist-vendored
+public/images/* linguist-vendored
